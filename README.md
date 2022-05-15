@@ -9,3 +9,5 @@ ScottPlot - WaveSpectr;
 C#
 WinForms
 .Net 4.7.2
+![on](https://user-images.githubusercontent.com/49808238/168454146-15e9cb19-9583-4ff4-a5bc-156c3a559a96.png)
+![off](https://user-images.githubusercontent.com/49808238/168454148-8662b87c-274f-41c8-879d-07f6707e12a3.png)

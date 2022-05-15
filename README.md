@@ -4,7 +4,7 @@ A mini-application for those who don't have a mute button on the microphone. Not
 
 Used nuget:
 NAudio - wasapi;
-ScottPlot - WaveSpectr;
+ScottPlot - wave visualizer;
 
 C#
 WinForms
